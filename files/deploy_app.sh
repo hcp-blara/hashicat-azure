@@ -14,7 +14,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. We find the cats so you don't have to! 
+  Welcome to ${PREFIX}'s app. Duncan-test. 
   <!-- END -->
   
   </div>
